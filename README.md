@@ -3,3 +3,4 @@ DevOps Hands-on Learning Repository
 ## Git Branching Practice
 
 This change was created on the feature/devops-practice branch.
+Developer A: Practicing Git merge conflicts
